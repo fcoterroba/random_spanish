@@ -56,3 +56,6 @@ In this library you've got three functions
     -  If you pass True, function will return a pairs of surnames as in Spain everybody got two surnames. Otherwise It'll return just one surname
 -  **Third one** expects a array string with the path to the CSV. Default is my website host.
     - See the **Download the CSVs locally (Recommended)**  point for more info
+
+---
+Last test was done in Python 3.9.7
